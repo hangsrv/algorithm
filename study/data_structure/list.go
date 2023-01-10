@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-func InitList() {
+func CreateList() {
 	l := list.New()
 
 	for i := 0; i < 5; i++ {

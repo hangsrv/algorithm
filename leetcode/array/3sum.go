@@ -1,4 +1,4 @@
-package leetcode
+package array
 
 /**
 15. 三数之和

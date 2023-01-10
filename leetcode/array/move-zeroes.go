@@ -1,4 +1,4 @@
-package leetcode
+package array
 
 /**
 283. 移动零

@@ -2,6 +2,6 @@ package data_structure
 
 import "testing"
 
-func TestInitHeap(t *testing.T) {
-	InitHeap()
+func TestCreateHeap(t *testing.T) {
+	CreateHeap()
 }

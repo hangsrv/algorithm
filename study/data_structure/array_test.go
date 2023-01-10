@@ -2,10 +2,10 @@ package data_structure
 
 import "testing"
 
-func TestInitArray(t *testing.T) {
-	InitArray()
+func TestCreateArray(t *testing.T) {
+	CreateArray()
 }
 
-func TestInitSlice(t *testing.T) {
-	InitSlice()
+func TestCreateSlice(t *testing.T) {
+	CreateSlice()
 }

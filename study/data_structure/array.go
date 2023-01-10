@@ -2,7 +2,7 @@ package data_structure
 
 import "fmt"
 
-func InitArray() {
+func CreateArray() {
 	var arr1 [5]int
 	fmt.Printf("%v\n", arr1)
 
@@ -17,7 +17,7 @@ func InitArray() {
 	fmt.Printf("%v\n", arr3)
 }
 
-func InitSlice() {
+func CreateSlice() {
 	var slice []int
 	slice = append(slice, 0, 1, 2, 3, 4, 5)
 	fmt.Println(slice)

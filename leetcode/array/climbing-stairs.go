@@ -1,4 +1,4 @@
-package leetcode
+package array
 
 /**
 70. 爬楼梯
